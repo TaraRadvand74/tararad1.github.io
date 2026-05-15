@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/tararad1.github.io/";
     },
   },{id: "nav-research",
-          title: "research",
+          title: "Research",
           description: "Working papers, publications, theses, and projects.",
           section: "Navigation",
           handler: () => {
