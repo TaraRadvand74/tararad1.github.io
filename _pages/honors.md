@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /honors/
-title: awards & media
+title: Awards & Media
 description: Awards, media recognition, grants, and honor societies.
 nav: true
 nav_order: 4
