@@ -7,49 +7,49 @@ ninja.data = [{
     title: "About",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/tararad1.github.io/";
+      window.location.href = "/";
     },
   },{id: "nav-publications",
           title: "Publications",
           description: "Working papers and published research.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/tararad1.github.io/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "Teaching experience and classroom roles.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/tararad1.github.io/teaching/";
+            window.location.href = "/teaching/";
           },
         },{id: "nav-awards-amp-media",
           title: "Awards &amp; Media",
           description: "Awards, media recognition, grants, and honor societies.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/tararad1.github.io/honors/";
+            window.location.href = "/honors/";
           },
         },{id: "nav-leadership",
           title: "Leadership",
           description: "Leadership and academic service.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/tararad1.github.io/leadership/";
+            window.location.href = "/leadership/";
           },
         },{id: "nav-industry",
           title: "Industry",
           description: "Collaboration with industry and nonprofit organizations.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/tararad1.github.io/industry/";
+            window.location.href = "/industry/";
           },
         },{id: "nav-miscellaneous",
           title: "Miscellaneous",
           description: "Residency, hobbies, volunteering, and public engagement.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/tararad1.github.io/miscellaneous/";
+            window.location.href = "/miscellaneous/";
           },
         },{id: "news-mojtaba-was-a-finalist-for-the-ibm-best-student-paper-award",
           title: 'Mojtaba was a finalist for the IBM best student paper award.',
@@ -66,7 +66,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/tararad1.github.io/feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
