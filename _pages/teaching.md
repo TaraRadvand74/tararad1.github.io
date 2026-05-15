@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Teaching experience and classroom roles.
 nav: true
 nav_order: 3
@@ -19,10 +19,11 @@ nav_order: 3
   }
 </style>
 
-## University of Michigan, Ross School of Business
+## Ross School of Business
 
 <ul class="experience-list">
-  <li><strong>Instructor</strong>, TO 313: Operations Management, BBA Core Course (Fall 2025). Course evaluation: 4.8 / 5.0; class size: 73 students. Topics covered include process analysis, waiting time analysis, quality management, inventory management, project management, revenue management, and supply chain management.</li>
+  <li><strong>Instructor</strong>, TO 313: Operations Management, BBA Core Course (Fall 2025). Course evaluation: 4.8 / 5.0; class size: 73 students. 
+    Topics covered include process analysis, waiting time analysis, quality management, inventory management, project management, revenue management, and supply chain management.</li>
 </ul>
 
 <img class="teaching-photo" src="{{ '/assets/img/TO313im.png' | relative_url }}" alt="TO 313 Operations Management class">
