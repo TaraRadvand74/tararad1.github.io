@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: research
+title: Research
 description: Working papers, publications, theses, and projects.
 nav: true
 nav_order: 2
@@ -68,7 +68,6 @@ nav_order: 2
 
 <div class="research-section">
   <h2>Work in Progress</h2>
-  <p class="section-note">Current research on learning, disagreement, and information environments.</p>
 
   <div class="paper-card">
     <h3>Collaborative Disagreement</h3>
@@ -80,7 +79,6 @@ nav_order: 2
 
 <div class="research-section">
   <h2>Working Papers</h2>
-  <p class="section-note">Research on LLM text attribution and platform operations.</p>
 
   <div class="paper-card">
     <h3><a href="https://arxiv.org/abs/2501.02406">A Training-free Method for LLM Text Attribution</a></h3>
@@ -104,7 +102,6 @@ nav_order: 2
 
 <div class="research-section">
   <h2>Published</h2>
-  <p class="section-note">Published research in transportation systems and infrastructure.</p>
 
   <div class="paper-card">
     <h3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0968090X22002728">Curbing Cruising-as-Substitution-For-Parking in Automated Mobility</a></h3>
