@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/tararad1.github.io/publications/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "Teaching experience and classroom roles.",
           section: "Navigation",
           handler: () => {
