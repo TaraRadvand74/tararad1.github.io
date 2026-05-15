@@ -7,65 +7,23 @@ nav: true
 nav_order: 2
 ---
 
-<style>
-  .publication-section {
-    margin-top: 2.2rem;
-  }
-
-  .publication-section h2 {
-    font-size: 1.35rem;
-    margin-bottom: 1rem;
-    color: var(--global-text-color);
-  }
-
-  .publications details {
-    margin-top: 0.35rem;
-    margin-bottom: 0.35rem;
-  }
-
-  .publications summary {
-    cursor: pointer;
-    display: inline-block;
-    padding: 0.15rem 0.5rem;
-    border: 1px solid var(--global-theme-color);
-    border-radius: 4px;
-    color: var(--global-theme-color);
-    font-size: 0.86rem;
-    font-weight: 500;
-  }
-
-  .publications details[open] summary {
-    background: var(--global-theme-color);
-    color: var(--global-bg-color);
-  }
-</style>
-
 {% include bib_search.liquid %}
 
 <div class="publications">
 
-<div class="publication-section">
+<h2 class="mt-4">Work in Progress</h2>
+<p><strong>Current research projects in progress.</strong></p>
 
-## Work in Progress
+{% bibliography --group_by none --query @*[topic=progress]* %}
 
-{% bibliography --query @*[category=work-in-progress] %}
+<h2 class="mt-4">Working Papers</h2>
+<p><strong>Working papers and manuscripts under development.</strong></p>
 
-</div>
+{% bibliography --group_by none --query @*[topic=working]* %}
 
-<div class="publication-section">
+<h2 class="mt-4">Published</h2>
+<p><strong>Published articles, thesis work, and other publications.</strong></p>
 
-## Working Papers
-
-{% bibliography --query @*[category=working-paper] %}
-
-</div>
-
-<div class="publication-section">
-
-## Published
-
-{% bibliography --query @*[category=published] %}
-
-</div>
+{% bibliography --group_by none --query @*[topic=published]* %}
 
 </div>
