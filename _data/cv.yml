@@ -1,0 +1,77 @@
+cv:
+  name: Mojtaba Abdolmaleki
+  label: Ph.D. Student in Technology and Operations
+  email: mojtabaa@umich.edu
+  location: Ann Arbor, MI, USA
+  image: profile-mojtaba.jpeg
+  summary: Ph.D. student in Technology and Operations at the Ross School of Business, University of Michigan. Research interests include data-driven decision-making, operations management under uncertainty, stochastic control, online learning, statistical inference, and operations research.
+
+  social_networks:
+    - network: LinkedIn
+      username: mojtaba-abdolmaleki-142879119
+    - network: GitHub
+      username: mojtabaa
+    - network: X
+      username: MojtabaAbdolma8
+
+  sections:
+    Education:
+      - institution: Ross School of Business, University of Michigan
+        location: Ann Arbor, MI
+        area: Technology and Operations
+        studyType: Ph.D.
+        start_date: 2024
+        end_date: present
+        score: "GPA: 4.1/4.0"
+
+      - institution: University of Michigan
+        location: Ann Arbor, MI
+        area: Transportation Systems Engineering
+        studyType: Ph.D.
+        end_date: 2023
+        score: "GPA: 4.2/4.0"
+
+      - institution: University of Michigan
+        location: Ann Arbor, MI
+        area: Industrial and Operations Engineering
+        studyType: M.Sc.
+        end_date: 2021
+        score: "GPA: 4.2/4.0"
+
+      - institution: Sharif University of Technology
+        area: Mathematics and Civil Engineering
+        studyType: B.Sc.
+        end_date: 2018
+        score: "GPA: 3.92/4.0; Math GPA: 4.0/4.0"
+
+    Research Interests:
+      - bullet: Data-driven decision-making in operations management
+      - bullet: Revenue management under privacy constraints
+      - bullet: Consumer search frictions and pricing policy
+      - bullet: Multi-stage project design under principal-agent conflicts
+      - bullet: Transportation systems, network structure, and real-time control
+
+    Teaching:
+      - bullet: "**Teaching Assistant, Infrastructure Systems Optimization**, University of Michigan, Fall 2021"
+      - bullet: "**Teaching Assistant, Transportation Network Modeling**, University of Michigan, Winter 2021"
+      - bullet: "**Teaching Assistant, Linear Algebra**, Sharif University of Technology, Fall 2015"
+
+    Awards:
+      - title: IBM best student paper award finalist
+        date: 2024
+      - title: Rackham Predoctoral Fellowship, University of Michigan
+        date: 2022
+      - title: Member of the Tau Beta Pi Honor Society, University of Michigan
+        date: 2022
+      - title: Third Prize, 23rd International Mathematical Competition for University Students, Bulgaria
+        date: 2016
+      - title: Silver Medal, 40th Iranian Mathematical Society Competition
+        date: 2016
+        summary: Ranked 5th
+      - title: Bronze Medal, 29th Iranian National Mathematical Olympiad
+        date: 2010
+
+    Service:
+      - bullet: "**Journals Refereed**: Management Science, Operations Research, Transportation Research Part B, C, and E (2019-present)"
+      - bullet: "**Session Chair**, INFORMS (2019-2022)"
+      - bullet: "**DEI Committee/K-12 Activities Chair**, Tau Beta Pi Honor Society (2022)"
