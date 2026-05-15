@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /leadership/
-title: leadership
+title: Leadership
 description: Leadership and academic service.
 nav: true
 nav_order: 5
