@@ -12,7 +12,7 @@ profile:
     <p>Ann Arbor, MI, USA</p>
     <p><a href="mailto:tararad@umich.edu">tararad@umich.edu</a></p>
 
-selected_papers: false
+selected_papers: True
 social: true
 
 announcements:
