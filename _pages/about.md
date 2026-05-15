@@ -33,3 +33,8 @@ While studying at Ross, I am also pursuing an M.S. in Statistics. Before joining
 In my research before joining Ross, I focused on studying the impacts of new transportation technologies, such as connected and automated vehicles and ridesharing services, on urban mobility, and provided methods for optimizing system performance.
 
 **Keywords:** Social/Ethical Operations, Online Platforms, Information Platforms, Large Language Models, Future Mobility, Networks, Stochastic Modeling, Game Theory, Information Design.
+
+
+## Residency
+
+I am a **U.S. Permanent Resident** (Green Card holder).
