@@ -45,7 +45,7 @@ ninja.data = [{
             window.location.href = "/tararad1.github.io/industry/";
           },
         },{id: "nav-miscellaneous",
-          title: "miscellaneous",
+          title: "Miscellaneous",
           description: "Residency, hobbies, volunteering, and public engagement.",
           section: "Navigation",
           handler: () => {
