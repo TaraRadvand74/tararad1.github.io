@@ -1,15 +1,13 @@
 ---
 layout: page
 permalink: /miscellaneous/
-title: miscellaneous
+title: Miscellaneous
 description: Residency, hobbies, volunteering, and public engagement.
 nav: true
 nav_order: 7
 ---
 
-## Residency
 
-I am a **U.S. Permanent Resident** (Green Card holder).
 
 ## Hobbies
 
