@@ -38,7 +38,7 @@ ninja.data = [{
             window.location.href = "/tararad1.github.io/leadership/";
           },
         },{id: "nav-industry",
-          title: "industry",
+          title: "Industry",
           description: "Collaboration with industry and nonprofit organizations.",
           section: "Navigation",
           handler: () => {
