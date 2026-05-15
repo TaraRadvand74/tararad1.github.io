@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tararadvand74.github.io/TaraRadvand.github.io/sitemap.xml
+Sitemap: https://tararadvand74.github.io/tararad1.github.io/sitemap.xml
