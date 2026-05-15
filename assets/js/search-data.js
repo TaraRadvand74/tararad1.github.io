@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/tararad1.github.io/teaching/";
           },
         },{id: "nav-awards-amp-media",
-          title: "awards &amp; media",
+          title: "Awards &amp; Media",
           description: "Awards, media recognition, grants, and honor societies.",
           section: "Navigation",
           handler: () => {
