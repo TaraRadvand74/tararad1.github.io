@@ -1,13 +1,23 @@
 ---
 layout: page
 permalink: /publications/
-title: Research
-description: Working papers, publications, theses, and projects.
+title: Publications
+description: Working papers and published research.
 nav: true
 nav_order: 2
 ---
 
 <style>
+  .publication-section {
+    margin-top: 2.2rem;
+  }
+
+  .publication-section h2 {
+    font-size: 1.35rem;
+    margin-bottom: 1rem;
+    color: var(--global-text-color);
+  }
+
   .publications details {
     margin-top: 0.35rem;
     margin-bottom: 0.35rem;
@@ -28,16 +38,34 @@ nav_order: 2
     background: var(--global-theme-color);
     color: var(--global-bg-color);
   }
-
-  .publications details p {
-    margin: 0.45rem 0;
-  }
 </style>
 
 {% include bib_search.liquid %}
 
 <div class="publications">
 
-{% bibliography %}
+<div class="publication-section">
+
+## Work in Progress
+
+{% bibliography --query @*[category=work-in-progress] %}
+
+</div>
+
+<div class="publication-section">
+
+## Working Papers
+
+{% bibliography --query @*[category=working-paper] %}
+
+</div>
+
+<div class="publication-section">
+
+## Published
+
+{% bibliography --query @*[category=published] %}
+
+</div>
 
 </div>
