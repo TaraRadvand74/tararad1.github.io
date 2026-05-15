@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/tararad1.github.io/honors/";
           },
         },{id: "nav-leadership",
-          title: "leadership",
+          title: "Leadership",
           description: "Leadership and academic service.",
           section: "Navigation",
           handler: () => {
