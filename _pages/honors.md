@@ -27,7 +27,7 @@ nav_order: 4
 
 ## Grants
 
-- **2026:** Ross Doctoral Grant ($4,000), Ross School of Business, University of Michigan
+- **2026:** Ross Doctoral Research Grant ($4,000), Ross School of Business, University of Michigan
 - **2023-2028:** Doctoral Fellowship, Ross School of Business, University of Michigan
 - **2021, 2022, 2025:** Rackham Conference Travel Grant, University of Michigan
 
