@@ -24,15 +24,15 @@ latest_posts:
   enabled: false
 ---
 
-Welcome! I'm Tara, a third-year Ph.D. candidate in Technology and Operations at the University of Michigan, Ross School of Business. I am fortunate to be advised by Mohamed Mostagir and to collaborate with Ambuj Tewari and James Siderius.
+Welcome! I’m Tara, a third-year Ph.D. candidate in Technology and Operations at the University of Michigan, Ross School of Business. I am fortunate to be advised by Professors Stephen Leider and Mohamed Mostagir, listed alphabetically.
 
-I am broadly interested in social and ethical operations, particularly in how emerging technologies such as artificial intelligence, automation, and social media reshape business operations and influence strategic user learning, behavior, and collective understanding.
+I am interested in thinking about (co-)thinking: the operations of innovation teams, online idea-generation platforms, AI-mediated teams, and teams of AI agents. My research accounts for the behavioral aspects of how agents learn from one another, coordinate, and shape collective outcomes. I then develop managerial insights on how organizational structure, team design, and online platform moderation can improve the management of these teams and interactions to enhance welfare.
 
 While studying at Ross, I am also pursuing an M.S. in Statistics. Before joining Ross, I started an M.Sc. in Industrial and Operations Engineering at the University of Michigan. Prior to that, I earned an M.Sc. in Transportation Engineering from Purdue University and a B.Sc. in Civil and Environmental Engineering from Sharif University of Technology.
 
 In my research before joining Ross, I focused on studying the impacts of new transportation technologies, such as connected and automated vehicles and ridesharing services, on urban mobility, and provided methods for optimizing system performance.
 
-**Keywords:** Social/Ethical Operations, Online Platforms, Information Platforms, Large Language Models, Future Mobility, Networks, Stochastic Modeling, Game Theory, Information Design.
+**Keywords:** Social Operations, Information Platforms, Organizational Structure, Collaboration, Social Learning, Bayesian Learning, Stochastic Modeling, Game Theory, Information Design.
 
 
 ## Residency
