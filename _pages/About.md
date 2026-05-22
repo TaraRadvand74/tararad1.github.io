@@ -24,7 +24,7 @@ latest_posts:
   enabled: false
 ---
 
-Welcome! I’m Tara, a third-year Ph.D. candidate in Technology and Operations at the University of Michigan, Ross School of Business. I am fortunate to be advised by Professors Stephen Leider and Mohamed Mostagir, listed alphabetically.
+Welcome! I’m Tara, a third-year Ph.D. candidate in Technology and Operations at the University of Michigan, Ross School of Business. I am fortunate to be advised by (listed alphabetically) Professor Stephen Leider and Professor Mohamed Mostagir.
 
 I am interested in thinking about (co-)thinking: the operations of innovation teams, online idea-generation platforms, AI-mediated teams, and teams of AI agents. My research accounts for the behavioral aspects of how agents learn from one another, coordinate, and shape collective outcomes. I then develop managerial insights on how organizational structure, team design, and online platform moderation can improve the management of these teams and interactions to enhance welfare.
 
