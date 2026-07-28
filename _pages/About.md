@@ -26,13 +26,11 @@ latest_posts:
 
 Welcome! I’m Tara, a third-year Ph.D. candidate in Technology and Operations at the University of Michigan, Ross School of Business. I am fortunate to be advised by (listed alphabetically) Professor Izak Duenyas, Professor Stephen Leider, and Professor Mohamed Mostagir.
 
-I am interested in thinking about (co-)thinking: the operations of innovation teams, online idea-generation platforms, AI-mediated workplace, and the regulation of AI use. My research accounts for the behavioral aspects (including biases) of how agents learn from one another, coordinate, and shape (collective) outcomes. I then develop managerial insights on how organizational structure, team design, and online platform moderation can improve the management of these teams and interactions to enhance welfare.
+I am interested in thinking about co-thinking and co-creation: the operations of innovation teams, online idea-generation platforms, AI-mediated workplace, and the regulation of AI use. My research accounts for the behavioral aspects (including biases) of how agents learn from one another, coordinate, and shape (collective) outcomes. I then develop managerial insights on how organizational structure, team design, and online platform moderation can improve the management of these teams and interactions to enhance welfare.
 
 While studying at Ross, I am also pursuing an M.S. in Statistics. Before joining Ross, I started an M.Sc. in Industrial and Operations Engineering at the University of Michigan. Prior to that, I earned an M.Sc. in Transportation Engineering from Purdue University and a B.Sc. in Civil and Environmental Engineering from Sharif University of Technology.
 
 In my research before joining Ross, I focused on studying the impacts of new transportation technologies, such as connected and automated vehicles and ridesharing services, on urban mobility, and provided methods for optimizing system performance.
-
-**Keywords:** Social Operations, Information Platforms, Organizational Structure, Collaboration, Social Learning, Bayesian Learning, Stochastic Modeling, Game Theory, Information Design
 
 
 ## Residency
