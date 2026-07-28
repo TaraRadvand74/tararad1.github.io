@@ -15,7 +15,7 @@ nav_order: 7
 - **Watching top TV shows.** You can view my watch list [here](https://raw.githubusercontent.com/TaraRadvand74/TaraRadvand.github.io/master/files/Shows.pdf). Suggestions are very appreciated.
 - **Cooking cuisines from different cultures.**
 - **Stargazing and night sky observation.** Some photos are available [here](https://raw.githubusercontent.com/TaraRadvand74/TaraRadvand.github.io/master/files/Sky_Observation_Photos.pdf).
-- **Reading tech news, papers, and books.**
+- **Reading tech news and papers.**
 - **Walking in nature.**
 
 ## Volunteering & Public Engagement
