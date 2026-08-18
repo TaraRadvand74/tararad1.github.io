@@ -21,6 +21,7 @@ nav_order: 4
 
 ## Media Recognition
 
+- **2026:** The Monitor, [Book publishers face rising scrutiny over AI usage by authors](https://www.csmonitor.com/Arts-Culture/Books/2026/0812/ai-publishing-commonwealth-prize-shy-girl)
 - **2025:** Michigan News, [U-M Researchers Devise Tool for Detecting AI That Scores High on Accuracy, Low on False Accusations](https://news.umich.edu/u-m-researchers-devise-tool-for-detecting-ai-that-scores-high-on-accuracy-low-on-false-accusations/)
 - **2025:** Ross Faculty News & Research, [Michigan Ross Research Team Creates AI Detection Tool](https://michiganross.umich.edu/news/michigan-ross-research-team-creates-ai-detection-tool)
 - **2025:** Paris Women in Machine Learning and Data Science (WiMLDS) Weekly Captures, [This Week's Paper: Who Wrote This? Zero-Shot Statistical Tests for LLM-Generated Text Detection](https://www.linkedin.com/posts/wimldsparis_this-weeks-paper-who-wrote-this-zero-shot-activity-7285981721320161280-0rnK)
