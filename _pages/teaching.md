@@ -31,7 +31,7 @@ nav_order: 3
 <img class="teaching-photo" src="{{ '/assets/img/TO313im.png' | relative_url }}" alt="TO 313 Operations Management class">
 
 <ul class="experience-list">
-  <li><strong>Invited PhD Teaching Panel Speaker</strong>, Ross PhD Teaching Panel (Winter 2026). Invited to share teaching strategies and classroom experiences with Ross PhD students serving as instructors.</li>
+  <li><strong>Invited PhD Teaching Panel Speaker</strong>, Ross PhD Teaching Panel (Winter 2026 and Fall 2026). Invited to share teaching strategies and classroom experiences with Ross PhD students serving as instructors.</li>
   <li><strong>Instructional Support Specialist</strong>, TO 534: Operations Management (Winter 2026, 53 students). Served as the primary point of contact for student questions and coursework, including Canvas support, weekly virtual office hours, and grading.</li>
   <li><strong>Teaching Assistant</strong>, Global Supply Chain Management: TO 620 / MKT 640, MBA core course (Winter 2023, 82 students); WMBA 611, WMBA core course (Fall 2023, 47 students).</li>
 </ul>
