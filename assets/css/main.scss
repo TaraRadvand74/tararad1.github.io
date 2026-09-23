@@ -52,3 +52,37 @@
 .publications .msom-red {
   color: red !important;
 }
+/* Use the full width for publication entries */
+.publications ol.bibliography li .row > div[id] {
+  flex: 0 0 100% !important;
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* Remove the empty abbreviation/thumbnail column */
+.publications ol.bibliography li .abbr {
+  display: none !important;
+}
+
+/* Keep news links on one line on desktop */
+@media (min-width: 992px) {
+  .publications .publication-news {
+    white-space: nowrap;
+  }
+}
+
+/* MSOM SIG-Day in red */
+.publications .msom-red {
+  color: red !important;
+}
+
+/* Divider between papers */
+.publications ol.bibliography li {
+  border-bottom: 1px solid var(--global-divider-color);
+  padding-bottom: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.publications ol.bibliography li:last-child {
+  border-bottom: none;
+}
