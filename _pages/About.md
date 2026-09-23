@@ -11,9 +11,10 @@ profile:
   more_info: >
     <p>Ann Arbor, MI, USA</p>
     <p><a href="mailto:tararad@umich.edu">tararad@umich.edu</a></p>
-    <p><a href="{{ '/assets/pdf/Tara Radvand CV.pdf' | relative_url }}" target="_blank">CV</a></p>
+    <p><a href="{{ '/assets/pdf/TaraRadvandCV.pdf' | relative_url }}" target="_blank">CV</a></p>
 
 selected_papers: true
+
 social: true
 
 announcements:
@@ -32,7 +33,6 @@ I am interested in thinking about co-thinking and co-creation: the operations of
 While studying at Ross, I am also pursuing an M.S. in Statistics. Before joining Ross, I started an M.Sc. in Industrial and Operations Engineering at the University of Michigan. Prior to that, I earned an M.Sc. in Transportation Engineering from Purdue University and a B.Sc. in Civil and Environmental Engineering from Sharif University of Technology.
 
 In my research before joining Ross, I focused on studying the impacts of new transportation technologies, such as connected and automated vehicles and ridesharing services, on urban mobility, and provided methods for optimizing system performance.
-
 
 ## Residency
 
