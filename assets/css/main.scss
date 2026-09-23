@@ -37,3 +37,13 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+/* Divider between publication entries */
+.publications ol.bibliography li {
+  border-bottom: 1px solid var(--global-divider-color);
+  padding-bottom: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.publications ol.bibliography li:last-child {
+  border-bottom: none;
+}
