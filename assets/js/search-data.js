@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-miscellaneous",
           title: "Miscellaneous",
-          description: "Residency, hobbies, volunteering, and public engagement.",
+          description: "Hobbies and public engagement.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/miscellaneous/";
