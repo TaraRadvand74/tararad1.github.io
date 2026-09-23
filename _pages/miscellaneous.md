@@ -2,7 +2,7 @@
 layout: page
 permalink: /miscellaneous/
 title: Miscellaneous
-description: Residency, hobbies, volunteering, and public engagement.
+description: Hobbies and public engagement.
 nav: true
 nav_order: 7
 ---
