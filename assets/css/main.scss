@@ -47,3 +47,8 @@
 .publications ol.bibliography li:last-child {
   border-bottom: none;
 }
+
+/* Highlight MSOM SIG-Day presentation */
+.publications .msom-red {
+  color: red !important;
+}
