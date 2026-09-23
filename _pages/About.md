@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Ann Arbor, MI, USA</p>
     <p><a href="mailto:tararad@umich.edu">tararad@umich.edu</a></p>
-    <p><a href="{{ '/assets/pdf/TaraRadvandCV.pdf' | relative_url }}" target="_blank">CV</a></p>
+    <p><a href="/assets/pdf/TaraRadvandCV.pdf" target="_blank">CV</a></p>
 
 selected_papers: true
 
