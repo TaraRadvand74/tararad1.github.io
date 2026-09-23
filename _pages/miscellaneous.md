@@ -7,18 +7,22 @@ nav: true
 nav_order: 7
 ---
 
-
-
 ## Hobbies
 
 - **Watching IMDb Top 250 movies.** My all-time favorite movie is *12 Angry Men*.
-- **Watching top TV shows.** You can view my watch list [here](https://raw.githubusercontent.com/TaraRadvand74/TaraRadvand.github.io/master/files/Shows.pdf). Suggestions are very appreciated.
+
+- **Watching top TV shows.** You can view my watch list [here]({{ '/assets/pdf/Shows.pdf' | relative_url }}). Suggestions are very appreciated.
+
 - **Cooking cuisines from different cultures.**
+
 - **Stargazing and night sky observation.** Some photos are available [here](https://raw.githubusercontent.com/TaraRadvand74/TaraRadvand.github.io/master/files/Sky_Observation_Photos.pdf).
+
 - **Reading tech news and papers.**
+
 - **Walking in nature.**
 
 ## Volunteering & Public Engagement
 
 - **K-12 Education Outreach.** Some photos are available [here](https://raw.githubusercontent.com/TaraRadvand74/TaraRadvand.github.io/master/files/K_12_outreach_photos.pdf).
+
 - **Astronomy Day Public Outreach.**
