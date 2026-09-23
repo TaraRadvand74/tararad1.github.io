@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -11,8 +11,9 @@ profile:
   more_info: >
     <p>Ann Arbor, MI, USA</p>
     <p><a href="mailto:tararad@umich.edu">tararad@umich.edu</a></p>
+    <p><a href="{{ '/assets/pdf/Tara_Radvand_CV.pdf' | relative_url }}" target="_blank">CV</a></p>
 
-selected_papers: True
+selected_papers: true
 social: true
 
 announcements:
