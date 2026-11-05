@@ -23,8 +23,8 @@ nav_order: 3
 
 <ul class="experience-list">
   <li>
-    <strong>Instructor</strong>, TO 313: Operations Management, BBA Core Course (Fall 2025). Course evaluation: 4.8 / 5.0; class size: 73 students.<br>
-    Topics covered include process analysis, waiting time analysis, quality management, inventory management, project management, revenue management, and supply chain management.
+<strong>Instructor</strong>, TO 313: Operations Management, BBA Core Course (Fall 2025). Course evaluation: 4.8 / 5.0; class size: 73 students; evaluation response rate: 82.2% (60 of 73 students).<br>
+  Topics covered include process analysis, waiting time analysis, quality management, inventory management, project management, revenue management, and supply chain management.
   </li>
 </ul>
 
